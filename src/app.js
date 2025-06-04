@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react';
 
 function App() {
-  return <div>Hello from App.js in builder-project-2!</div>;
+  return <div>Hello from Builder-ready React App!</div>;
 }
 
 export default App;
